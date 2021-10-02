@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background: #D6CBBB;
+;
+}
+h4 {
+    text-align: center;
+    color: #29241E;
+;
+}
+h1 {
+    text-align: center;
+    color: #29241E;
+}
+header {
+    background-color: #BFAC9B;
+    padding: 10px;
+    margin: 5px;
+}
+h2 {
+    text-align: center;
+    color: #29241E;
+} 
+main {
+    background-color: #BFAC9B;
+    padding: 10px;
+    margin: 5px;
+    margin-top: 5px ;
+}
+footer {
+    background-color: #BFAC9B;
+    padding: 10px;
+    margin: 5px;
+    margin-top: 5px ;
+}
+h3 {
+    text-align: center;
+    color: #29241E;
+}
+main img {
+width: 374px;
+height: 250px;
+padding: 5px;
+}
